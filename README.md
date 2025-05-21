@@ -4,7 +4,7 @@
 
 ## Overview
 
-Vitteey Sahaayak is a state-of-the-art financial analysis system that leverages multiple AI agents working in concert to deliver comprehensive market insights. Built on the powerful Groq LLM (llama-3.3-70b-versatile), it combines real-time market data, web intelligence, and advanced analytics to provide actionable financial insights.
+Vitteey Sahaayak is a financial analysis system that leverages multiple AI agents working in concert to deliver comprehensive market insights. Built on the powerful Groq LLM (llama-3.3-70b-versatile), it combines real-time market data, web intelligence, and advanced analytics to provide actionable financial insights.
 
 ## Core Capabilities
 
@@ -38,8 +38,7 @@ Vitteey Sahaayak is a state-of-the-art financial analysis system that leverages 
 - **Framework**: phidata
 - **Data Sources**: yfinance, duckduckgo-search
 - **Web Tools**: spider-client
-- **API**: fastapi, uvicorn
-- **Interface**: streamlit
+- **News Source**: Hacker News
 
 ## Quick Start
 
@@ -93,7 +92,7 @@ We welcome contributions to enhance agent capabilities, add features, or improve
 
 ## License
 
-Licensed under the terms of the included LICENSE file.
+Licensed under the terms of the included [LICENSE](LICENSE) file.
 
 ---
 

@@ -8,7 +8,7 @@ def chat():
     """
     This function is used to chat with the Vitteey Sahaayak.
     """
-    print("Hello, I am Vitteey Sahaayak, your financial helper\n\nhow can I help you today? (type '000' to quit)")
+    print("Hello, I am Vitteey Sahaayak, your financial helper\n\nhow can I help you today? (type '000' to quit)i")
 
     while True:
         user_input = input("\nYou: ")

@@ -5,4 +5,4 @@ load_dotenv()
 
 Financial_Agent = multi_agent()
 
-Financial_Agent.print_response("Should i consider Apple stock?", stream=True)
+Financial_Agent.print_response("Current price of Apple stock?", stream=True)
