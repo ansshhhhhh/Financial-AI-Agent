@@ -1,5 +1,4 @@
-# Vitteey Sahaayak
-
+# Financial-AI-Agent
 > A Next-Gen Financial Intelligence System Powered by Collaborative AI Agents
 
 ## Overview
