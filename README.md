@@ -1,9 +1,9 @@
-# Financial-AI-Agent
+# Multi Agent FinBot
 > A Next-Gen Financial Intelligence System Powered by Collaborative AI Agents
 
 ## Overview
 
-Vitteey Sahaayak is a financial analysis system that leverages multiple AI agents working in concert to deliver comprehensive market insights. Built on the powerful Groq LLM (llama-3.3-70b-versatile), it combines real-time market data, web intelligence, and advanced analytics to provide actionable financial insights.
+Multi-Agent-FinBot is a financial analysis system that leverages multiple AI agents working in concert to deliver comprehensive market insights. Built on the powerful Groq LLM (llama-3.3-70b-versatile), it combines real-time market data, web intelligence, and advanced analytics to provide actionable financial insights.
 
 ## Core Capabilities
 
@@ -43,8 +43,8 @@ Vitteey Sahaayak is a financial analysis system that leverages multiple AI agent
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/Vitteey-Sahaayak.git
-cd Vitteey-Sahaayak
+git clone https://github.com/ansshhhhhh/Multi-Agent-FinBot.git
+cd Multi-Agent-FinBot
 
 # Environment setup
 python -m venv venv
@@ -61,7 +61,7 @@ python main.py
 ## Architecture
 
 ```
-Vitteey-Sahaayak/
+Multi-Agent-FinBot/
 ├── Agent/
 │   ├── agents.py      # Agent implementations
 │   └── multiAgent.py  # Agent orchestration
